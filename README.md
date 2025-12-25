@@ -31,7 +31,7 @@ A comprehensive web-based farm management application for monitoring and managin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Florastein/farm-management-system.git
    cd farm-management-system
    ```
 
