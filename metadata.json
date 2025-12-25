@@ -1,0 +1,7 @@
+{
+  "name": "Farm Management System (FMS) Pro",
+  "description": "A comprehensive digital solution for poultry and catfish farm optimization, featuring automated alerts, performance analytics, and AI-driven growth insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
